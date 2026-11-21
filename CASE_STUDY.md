@@ -118,7 +118,3 @@ These results suggest questions to test with real campaign data, rather than imm
 - **Customer Engagement Check-in:** Treatment was 6 percentage points higher, but the adjusted interval includes zero. Define the exact message or offer, then run a properly randomized test with enough customers to judge whether it makes a meaningful difference.
 - **Dormant Customer Re-engagement:** 93 of the 400 assigned customers were classified as Active under the project’s rules. Review the audience criteria and consider testing the campaign with a dormant-only audience. This synthetic result does not prove that contacting Active customers wastes resources.
 Validate these ideas with real campaign data before making operational decisions.
-
-## Interview Walkthrough
-
-Use the workflow headings as your presentation order: question → process → checks and decisions → findings → limitations and next step.
